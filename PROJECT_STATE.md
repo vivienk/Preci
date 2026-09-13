@@ -2,7 +2,7 @@
 
 ## Current working state
 - GitHub repository initialized.
-- Token-efficient agent/context structure is being established.
+- Token-efficient agent/context structure is established and validated.
 - Existing repository currently has no application source code yet.
 
 ## Recent decisions
@@ -25,6 +25,7 @@ Add or initialize the Expo app source, then verify the app boots locally before 
 - `docs/PRODUCT.md`
 - `docs/ARCHITECTURE.md`
 - `docs/AI_RECOMMENDATIONS.md`
+- `docs/DATA_MODEL.md`
 - `docs/REVENUECAT.md`
 - `docs/SHIPATON.md`
 

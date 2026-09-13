@@ -43,9 +43,6 @@ At meaningful feature boundaries:
 - preserve decisions, changed files, test status, blockers, and next action;
 - discard old searches, successful logs, superseded plans, and dead-end hypotheses.
 
-## Runtime AI
-For Preci recommendations, retrieve only the strongest relevant structured memories, always include relevant avoid signals, request exactly three structured recommendations, persist successful results, and use deterministic code for deterministic work.
-
 ## Reporting
 DONE: <one sentence>
 CHANGED: <paths only>
