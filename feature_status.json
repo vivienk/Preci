@@ -1,0 +1,19 @@
+{
+  "project": "Preci",
+  "platform": "iOS-first Expo/React Native",
+  "features": [
+    {"id":"app_boot","label":"App boots reliably","status":"todo"},
+    {"id":"navigation","label":"Core navigation and shell","status":"todo"},
+    {"id":"persistence","label":"Persistent app data layer","status":"todo"},
+    {"id":"people","label":"People profiles","status":"todo"},
+    {"id":"memories","label":"Mentioned / Liked / Needed / Avoid memories","status":"todo"},
+    {"id":"occasions","label":"Occasions and dates","status":"todo"},
+    {"id":"recommendations","label":"Three explainable gift recommendations","status":"todo"},
+    {"id":"saved_gifts","label":"Save gift and planning flow","status":"todo"},
+    {"id":"revenuecat","label":"RevenueCat purchase and entitlement flow","status":"todo"},
+    {"id":"restore","label":"Restore purchases","status":"todo"},
+    {"id":"e2e","label":"Core end-to-end path verified","status":"todo"},
+    {"id":"app_store","label":"App Store readiness","status":"todo"},
+    {"id":"shipaton","label":"Shipaton submission readiness","status":"todo"}
+  ]
+}
