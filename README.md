@@ -39,4 +39,6 @@ Read deeper docs only when the current task needs them. The reusable repo-local 
 
 ## Current state
 
-The repository scaffolding and agent/context architecture are initialized. The next milestone is to add or initialize the Expo application source and verify the native app boots reliably.
+The Expo app foundation and separate staging/production build profiles are in place. See [`docs/STAGING.md`](docs/STAGING.md) for setup and the remaining account/service provisioning steps. The next product milestone is implementing the first real person → occasion → gift idea loop.
+
+Run `npm install` and `npx expo start` to open the app locally. After your personal Apple Developer enrollment is active and the EAS project is linked, `npx eas-cli build --profile staging --platform ios` creates the signed staging build.

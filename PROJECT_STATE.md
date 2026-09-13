@@ -3,7 +3,7 @@
 ## Current working state
 - GitHub repository initialized.
 - Token-efficient agent/context structure is established and validated.
-- Existing repository currently has no application source code yet.
+- Expo app foundation added with isolated staging and production build profiles.
 
 ## Recent decisions
 - Product name: Preci.
@@ -13,11 +13,11 @@
 - AI recommendations should use structured relationship signals rather than full raw history.
 
 ## Known blockers
-- App source code still needs to be added to this repository.
-- Native bundle/App Store/RevenueCat configuration will need verification once the Expo project is present.
+- Apple personal developer enrollment is pending; signing and App Store Connect cannot be completed yet.
+- EAS project, separate Supabase/backend environments, and RevenueCat apps still need live provisioning; see `docs/STAGING.md`.
 
 ## Next highest-priority action
-Add or initialize the Expo app source, then verify the app boots locally before implementing feature slices.
+Verify the Expo app boots, then implement the first real person → occasion → gift idea flow. Complete EAS signing once personal Apple membership is active.
 
 ## Important files
 - `AGENTS.md`
